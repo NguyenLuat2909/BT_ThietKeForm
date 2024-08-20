@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5C63C592-AF72-48CB-9FD6-D0B8DFF3AD60}</ProjectGuid>
+    <ProjectGuid>{84625828-C251-4AC2-9E97-A821DB54A961}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>BaiTapThietKeForm</RootNamespace>
-    <AssemblyName>BaiTapThietKeForm</AssemblyName>
+    <RootNamespace>BTWindownsFormBT2</RootNamespace>
+    <AssemblyName>BTWindownsFormBT2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,17 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs" />
     <Compile Include="frmBai1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmBai1.Designer.cs">
       <DependentUpon>frmBai1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Chinh.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Chinh.Designer.cs">
-      <DependentUpon>Chinh.cs</DependentUpon>
     </Compile>
     <Compile Include="frmBai2.cs">
       <SubType>Form</SubType>
@@ -70,19 +65,18 @@
     <Compile Include="frmBai3.Designer.cs">
       <DependentUpon>frmBai3.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmBai4.cs">
+    <Compile Include="frmChinh.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmBai4.Designer.cs">
-      <DependentUpon>frmBai4.cs</DependentUpon>
+    <Compile Include="frmChinh.Designer.cs">
+      <DependentUpon>frmChinh.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThietBi.cs" />
+    <Compile Include="PhepTinh.cs" />
     <EmbeddedResource Include="frmBai1.resx">
       <DependentUpon>frmBai1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Chinh.resx">
-      <DependentUpon>Chinh.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmBai2.resx">
       <DependentUpon>frmBai2.cs</DependentUpon>
@@ -90,8 +84,8 @@
     <EmbeddedResource Include="frmBai3.resx">
       <DependentUpon>frmBai3.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmBai4.resx">
-      <DependentUpon>frmBai4.cs</DependentUpon>
+    <EmbeddedResource Include="frmChinh.resx">
+      <DependentUpon>frmChinh.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -117,22 +111,16 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\write.png" />
+    <None Include="Resources\reading-book.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\notebook.png" />
+    <None Include="Resources\open-book.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\copy-book.png" />
+    <None Include="Resources\book.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\maxresdefault.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\copy-book1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\notes.png" />
+    <None Include="Resources\test.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

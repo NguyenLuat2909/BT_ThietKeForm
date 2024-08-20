@@ -35,8 +35,8 @@
 			this.txtDonGia = new System.Windows.Forms.TextBox();
 			this.txtSoLuong = new System.Windows.Forms.TextBox();
 			this.groupBox1 = new System.Windows.Forms.GroupBox();
-			this.radioButton1 = new System.Windows.Forms.RadioButton();
 			this.radioButton2 = new System.Windows.Forms.RadioButton();
+			this.radioButton1 = new System.Windows.Forms.RadioButton();
 			this.btnTinhTien = new System.Windows.Forms.Button();
 			this.label4 = new System.Windows.Forms.Label();
 			this.lblTongTien = new System.Windows.Forms.Label();
@@ -115,16 +115,6 @@
 			this.groupBox1.TabStop = false;
 			this.groupBox1.Text = "Hình thức thanh toán";
 			// 
-			// radioButton1
-			// 
-			this.radioButton1.AutoSize = true;
-			this.radioButton1.Location = new System.Drawing.Point(18, 27);
-			this.radioButton1.Name = "radioButton1";
-			this.radioButton1.Size = new System.Drawing.Size(135, 24);
-			this.radioButton1.TabIndex = 0;
-			this.radioButton1.Text = "Chuyển khoản";
-			this.radioButton1.UseVisualStyleBackColor = true;
-			// 
 			// radioButton2
 			// 
 			this.radioButton2.AutoSize = true;
@@ -136,6 +126,16 @@
 			this.radioButton2.TabStop = true;
 			this.radioButton2.Text = "Tiền mặt";
 			this.radioButton2.UseVisualStyleBackColor = true;
+			// 
+			// radioButton1
+			// 
+			this.radioButton1.AutoSize = true;
+			this.radioButton1.Location = new System.Drawing.Point(18, 27);
+			this.radioButton1.Name = "radioButton1";
+			this.radioButton1.Size = new System.Drawing.Size(135, 24);
+			this.radioButton1.TabIndex = 0;
+			this.radioButton1.Text = "Chuyển khoản";
+			this.radioButton1.UseVisualStyleBackColor = true;
 			// 
 			// btnTinhTien
 			// 
