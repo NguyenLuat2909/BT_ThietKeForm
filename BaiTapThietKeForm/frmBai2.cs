@@ -48,7 +48,7 @@ namespace BaiTapThietKeForm
 						soTien += 200000;
 						break;
 				}
-				lblTongTien.Text = soTien + " Đồng";
+				lblTongTien.Text = soTien + " VNĐ";
 
 			}	
 		}

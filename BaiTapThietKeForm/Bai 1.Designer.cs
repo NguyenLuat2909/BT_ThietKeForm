@@ -217,7 +217,7 @@
 			this.Controls.Add(this.groupBox1);
 			this.Controls.Add(this.pictureBox1);
 			this.Name = "frmBai1";
-			this.Text = "Bai1";
+			this.Text = "Bài 1";
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
 			this.groupBox1.ResumeLayout(false);
 			this.groupBox1.PerformLayout();

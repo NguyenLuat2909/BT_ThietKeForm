@@ -29,16 +29,16 @@
 		private void InitializeComponent()
 		{
 			this.panel1 = new System.Windows.Forms.Panel();
-			this.label1 = new System.Windows.Forms.Label();
-			this.listBox1 = new System.Windows.Forms.ListBox();
 			this.btnChonHang = new System.Windows.Forms.Button();
+			this.listBox1 = new System.Windows.Forms.ListBox();
+			this.label1 = new System.Windows.Forms.Label();
 			this.panel2 = new System.Windows.Forms.Panel();
+			this.lblTongTien = new System.Windows.Forms.Label();
+			this.label3 = new System.Windows.Forms.Label();
+			this.btnTinhTien = new System.Windows.Forms.Button();
 			this.btnBoHang = new System.Windows.Forms.Button();
 			this.listBox2 = new System.Windows.Forms.ListBox();
 			this.label2 = new System.Windows.Forms.Label();
-			this.btnTinhTien = new System.Windows.Forms.Button();
-			this.label3 = new System.Windows.Forms.Label();
-			this.lblTongTien = new System.Windows.Forms.Label();
 			this.panel1.SuspendLayout();
 			this.panel2.SuspendLayout();
 			this.SuspendLayout();
@@ -54,15 +54,16 @@
 			this.panel1.Size = new System.Drawing.Size(432, 357);
 			this.panel1.TabIndex = 0;
 			// 
-			// label1
+			// btnChonHang
 			// 
-			this.label1.AutoSize = true;
-			this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.label1.Location = new System.Drawing.Point(64, 21);
-			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(198, 25);
-			this.label1.TabIndex = 2;
-			this.label1.Text = "Danh sách hàng hóa ";
+			this.btnChonHang.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.btnChonHang.Location = new System.Drawing.Point(284, 119);
+			this.btnChonHang.Name = "btnChonHang";
+			this.btnChonHang.Size = new System.Drawing.Size(134, 36);
+			this.btnChonHang.TabIndex = 4;
+			this.btnChonHang.Text = "Chọn hàng >";
+			this.btnChonHang.UseVisualStyleBackColor = true;
+			this.btnChonHang.Click += new System.EventHandler(this.btnChonHang_Click);
 			// 
 			// listBox1
 			// 
@@ -79,16 +80,15 @@
 			this.listBox1.Size = new System.Drawing.Size(236, 184);
 			this.listBox1.TabIndex = 3;
 			// 
-			// btnChonHang
+			// label1
 			// 
-			this.btnChonHang.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.btnChonHang.Location = new System.Drawing.Point(284, 119);
-			this.btnChonHang.Name = "btnChonHang";
-			this.btnChonHang.Size = new System.Drawing.Size(134, 36);
-			this.btnChonHang.TabIndex = 4;
-			this.btnChonHang.Text = "Chọn hàng >";
-			this.btnChonHang.UseVisualStyleBackColor = true;
-			this.btnChonHang.Click += new System.EventHandler(this.btnChonHang_Click);
+			this.label1.AutoSize = true;
+			this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label1.Location = new System.Drawing.Point(64, 21);
+			this.label1.Name = "label1";
+			this.label1.Size = new System.Drawing.Size(198, 25);
+			this.label1.TabIndex = 2;
+			this.label1.Text = "Danh sách hàng hóa ";
 			// 
 			// panel2
 			// 
@@ -103,6 +103,37 @@
 			this.panel2.Name = "panel2";
 			this.panel2.Size = new System.Drawing.Size(478, 357);
 			this.panel2.TabIndex = 1;
+			// 
+			// lblTongTien
+			// 
+			this.lblTongTien.AutoSize = true;
+			this.lblTongTien.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.lblTongTien.ForeColor = System.Drawing.Color.Red;
+			this.lblTongTien.Location = new System.Drawing.Point(265, 319);
+			this.lblTongTien.Name = "lblTongTien";
+			this.lblTongTien.Size = new System.Drawing.Size(0, 25);
+			this.lblTongTien.TabIndex = 7;
+			// 
+			// label3
+			// 
+			this.label3.AutoSize = true;
+			this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label3.Location = new System.Drawing.Point(9, 319);
+			this.label3.Name = "label3";
+			this.label3.Size = new System.Drawing.Size(218, 25);
+			this.label3.TabIndex = 6;
+			this.label3.Text = "Tổng tiền thanh toán:";
+			// 
+			// btnTinhTien
+			// 
+			this.btnTinhTien.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.btnTinhTien.Location = new System.Drawing.Point(201, 223);
+			this.btnTinhTien.Name = "btnTinhTien";
+			this.btnTinhTien.Size = new System.Drawing.Size(125, 36);
+			this.btnTinhTien.TabIndex = 5;
+			this.btnTinhTien.Text = "Tính tiền";
+			this.btnTinhTien.UseVisualStyleBackColor = true;
+			this.btnTinhTien.Click += new System.EventHandler(this.btnTinhTien_Click);
 			// 
 			// btnBoHang
 			// 
@@ -134,37 +165,6 @@
 			this.label2.Size = new System.Drawing.Size(240, 25);
 			this.label2.TabIndex = 2;
 			this.label2.Text = "Các mặt hàng khách mua ";
-			// 
-			// btnTinhTien
-			// 
-			this.btnTinhTien.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.btnTinhTien.Location = new System.Drawing.Point(201, 223);
-			this.btnTinhTien.Name = "btnTinhTien";
-			this.btnTinhTien.Size = new System.Drawing.Size(125, 36);
-			this.btnTinhTien.TabIndex = 5;
-			this.btnTinhTien.Text = "Tính tiền";
-			this.btnTinhTien.UseVisualStyleBackColor = true;
-			this.btnTinhTien.Click += new System.EventHandler(this.btnTinhTien_Click);
-			// 
-			// label3
-			// 
-			this.label3.AutoSize = true;
-			this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.label3.Location = new System.Drawing.Point(9, 319);
-			this.label3.Name = "label3";
-			this.label3.Size = new System.Drawing.Size(218, 25);
-			this.label3.TabIndex = 6;
-			this.label3.Text = "Tổng tiền thanh toán:";
-			// 
-			// lblTongTien
-			// 
-			this.lblTongTien.AutoSize = true;
-			this.lblTongTien.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.lblTongTien.ForeColor = System.Drawing.Color.Red;
-			this.lblTongTien.Location = new System.Drawing.Point(265, 319);
-			this.lblTongTien.Name = "lblTongTien";
-			this.lblTongTien.Size = new System.Drawing.Size(0, 25);
-			this.lblTongTien.TabIndex = 7;
 			// 
 			// frmBai2
 			// 

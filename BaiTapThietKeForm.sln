@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapThietKeForm", "BaiTapThietKeForm\BaiTapThietKeForm.csproj", "{5C63C592-AF72-48CB-9FD6-D0B8DFF3AD60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTWindowsForm", "..\BTWindowsForm\BTWindowsForm\BTWindowsForm.csproj", "{78251CE3-B77F-4DF0-BC29-FF290544347E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5C63C592-AF72-48CB-9FD6-D0B8DFF3AD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C63C592-AF72-48CB-9FD6-D0B8DFF3AD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C63C592-AF72-48CB-9FD6-D0B8DFF3AD60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78251CE3-B77F-4DF0-BC29-FF290544347E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78251CE3-B77F-4DF0-BC29-FF290544347E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78251CE3-B77F-4DF0-BC29-FF290544347E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78251CE3-B77F-4DF0-BC29-FF290544347E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
