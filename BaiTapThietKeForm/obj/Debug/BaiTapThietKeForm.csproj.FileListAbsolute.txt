@@ -9,3 +9,6 @@ D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BaiTapTh
 D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.CoreCompileInputs.cache
 D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.exe
 D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.pdb
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai2.resources
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai3.resources
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai4.resources

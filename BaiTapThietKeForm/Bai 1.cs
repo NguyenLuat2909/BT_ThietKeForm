@@ -24,12 +24,12 @@ namespace BaiTapThietKeForm
 
 		private void rdDo_CheckedChanged(object sender, EventArgs e)
 		{
-			txtDonGia.Text = "210000";
+			txtDonGia.Text = "21000";
 		}
 
 		private void rdTrang_CheckedChanged(object sender, EventArgs e)
 		{
-			txtDonGia.Text = "22000";
+			txtDonGia.Text = "20000";
 		}
 
 		private void btnTinhTien_Click(object sender, EventArgs e)
