@@ -1,0 +1,13 @@
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BTWindownsForm\bin\Debug\BTWindownsForm.exe.config
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BTWindownsForm\bin\Debug\BTWindownsForm.exe
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BTWindownsForm\bin\Debug\BTWindownsForm.pdb
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BTWindownsForm\obj\Debug\BTWindownsForm.csproj.AssemblyReference.cache
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BTWindownsForm\obj\Debug\BTWindownsForm.Properties.Resources.resources
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BTWindownsForm\obj\Debug\BTWindownsForm.csproj.GenerateResource.cache
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BTWindownsForm\obj\Debug\BTWindownsForm.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BTWindownsForm\obj\Debug\BTWindownsForm.exe
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BTWindownsForm\obj\Debug\BTWindownsForm.pdb
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BTWindownsForm\obj\Debug\BTWindownsForm.frmBai1.resources
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BTWindownsForm\obj\Debug\BTWindownsForm.frmChinh.resources
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BTWindownsForm\obj\Debug\BTWindownsForm.frmBai2.resources
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\BaiTapThietKeForm\BTWindownsForm\obj\Debug\BTWindownsForm.frmBai3.resources
