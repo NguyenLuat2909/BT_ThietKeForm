@@ -1,0 +1,11 @@
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổi 2\BTWindownsFormBT3\bin\Debug\BTWindownsFormBT3.exe.config
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổi 2\BTWindownsFormBT3\bin\Debug\BTWindownsFormBT3.exe
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổi 2\BTWindownsFormBT3\bin\Debug\BTWindownsFormBT3.pdb
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổi 2\BTWindownsFormBT3\obj\Debug\BTWindownsFormBT3.csproj.AssemblyReference.cache
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổi 2\BTWindownsFormBT3\obj\Debug\BTWindownsFormBT3.frmBai1.resources
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổi 2\BTWindownsFormBT3\obj\Debug\BTWindownsFormBT3.frmChinh.resources
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổi 2\BTWindownsFormBT3\obj\Debug\BTWindownsFormBT3.Properties.Resources.resources
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổi 2\BTWindownsFormBT3\obj\Debug\BTWindownsFormBT3.csproj.GenerateResource.cache
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổi 2\BTWindownsFormBT3\obj\Debug\BTWindownsFormBT3.csproj.CoreCompileInputs.cache
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổi 2\BTWindownsFormBT3\obj\Debug\BTWindownsFormBT3.exe
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổi 2\BTWindownsFormBT3\obj\Debug\BTWindownsFormBT3.pdb
