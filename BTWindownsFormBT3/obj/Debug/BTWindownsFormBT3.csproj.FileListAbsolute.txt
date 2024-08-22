@@ -9,3 +9,4 @@ D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổ
 D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổi 2\BTWindownsFormBT3\obj\Debug\BTWindownsFormBT3.csproj.CoreCompileInputs.cache
 D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổi 2\BTWindownsFormBT3\obj\Debug\BTWindownsFormBT3.exe
 D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổi 2\BTWindownsFormBT3\obj\Debug\BTWindownsFormBT3.pdb
+D:\WorkSpace\MY_PROJECT\2212412_NguyenThiLuat\DESKTOP\Desktop thực hành buổi 2\BTWindownsFormBT3\obj\Debug\BTWindownsFormBT3.frmBai2.resources

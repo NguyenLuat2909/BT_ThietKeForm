@@ -121,12 +121,17 @@
 			this.nudHesoluong.Name = "nudHesoluong";
 			this.nudHesoluong.Size = new System.Drawing.Size(120, 27);
 			this.nudHesoluong.TabIndex = 7;
+			this.nudHesoluong.Value = new decimal(new int[] {
+            1,
+            0,
+            0,
+            131072});
 			// 
 			// frmBai1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(800, 450);
+			this.ClientSize = new System.Drawing.Size(1111, 500);
 			this.Controls.Add(this.nudHesoluong);
 			this.Controls.Add(this.label4);
 			this.Controls.Add(this.dateTimePicker1);
